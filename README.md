@@ -35,3 +35,7 @@ print(
 ## Training
 
 You can train a doubutsu on your own use-case via one of the notebooks provided in this repo.
+
+## Acknowledgements
+
+A huge part of this codebase is based on https://github.com/vikhyat/moondream
