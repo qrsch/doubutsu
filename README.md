@@ -1,6 +1,6 @@
 # doubutsu
 
-A family of smol VLMs.
+A family of smol VLMs. Designed to be finetuned on 1x3090 (for 378 resolution) or 1xA100 (for 576 resolution)
 
 ## Usage
 
